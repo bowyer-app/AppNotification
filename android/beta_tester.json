@@ -1,64 +1,88 @@
 {
   "items": [
     {
+      "profile_name": "bowyer-app",
+      "img_url": "https://avatars0.githubusercontent.com/u/12456426?v=3&s=460",
+      "link_url": "https://github.com/bowyer-app",
+      "type": "developer"
+    },
+    {
+      "profile_name": "shaunkawano",
+      "img_url": "https://avatars0.githubusercontent.com/u/920911?v=3&s=460",
+      "link_url": "https://github.com/shaunkawano",
+      "type": "developer"
+    },
+    {
       "profile_name": "さるにゃん９１０",
       "img_url": "https://pbs.twimg.com/profile_images/720565573814325248/PIayPwfT_400x400.jpg",
-      "link_url": "https://twitter.com/sarunyan0910"
+      "link_url": "https://twitter.com/sarunyan0910",
+      "type": "tester"
     },
     {
       "profile_name": "Masayoshi",
       "img_url": "https://pbs.twimg.com/profile_images/724241490927476736/rs9mUDvr_400x400.jpg",
-      "link_url": "https://twitter.com/kyudo_1030024"
+      "link_url": "https://twitter.com/kyudo_1030024",
+      "type": "tester"
     },
     {
       "profile_name": "はやとん@弓道",
       "img_url": "https://pbs.twimg.com/profile_images/718380377333743616/oOhmzl32_400x400.jpg",
-      "link_url": "https://twitter.com/tonnu_01"
+      "link_url": "https://twitter.com/tonnu_01",
+      "type": "tester"      
     },
     {
       "profile_name": "リンダ（林田 洸遥）@弓道垢",
       "img_url": "https://pbs.twimg.com/profile_images/714076556944150528/wL9sL5Or_400x400.jpg",
-      "link_url": "https://twitter.com/kyudo_creampan"
+      "link_url": "https://twitter.com/kyudo_creampan",
+      "type": "tester"
     },
     {
       "profile_name": "✠ふぁなりりぃ",
       "img_url": "https://pbs.twimg.com/profile_images/729660829734297601/cbd30aMv_400x400.jpg",
-      "link_url": "https://twitter.com/fhanaliry"
+      "link_url": "https://twitter.com/fhanaliry",
+      "type": "tester"
     },
     {
       "profile_name": "颯爽",
       "img_url": "https://pbs.twimg.com/profile_images/722966821163257856/WLWO5d33_400x400.jpg",
-      "link_url": "https://twitter.com/haya_goose"
+      "link_url": "https://twitter.com/haya_goose",
+      "type": "tester"
     },
     {
       "profile_name": "さき",
       "img_url": "https://pbs.twimg.com/profile_images/723787992846852096/Y3QOErpz_400x400.jpg",
-      "link_url": "https://twitter.com/saki_niyodo"
+      "link_url": "https://twitter.com/saki_niyodo",
+      "type": "tester"
     },
     {
       "profile_name": "メビウスくん@",
       "img_url": "https://pbs.twimg.com/profile_images/713654779084455937/IIWSqABv_400x400.jpg",
-      "link_url": "https://twitter.com/Mebiusu8653"
+      "link_url": "https://twitter.com/Mebiusu8653",
+      "type": "tester"
     },
     {
       "profile_name": "なむら",
       "img_url": "https://pbs.twimg.com/profile_images/707026979179012096/wZH-eAWo_400x400.jpg",
-      "link_url": "https://twitter.com/namunamu0302"
+      "link_url": "https://twitter.com/namunamu0302",
+      "type": "tester"
     },
     {
       "profile_name": "ゆっか",
       "img_url": "https://pbs.twimg.com/profile_images/718991688354500608/Nfs8vVU-_400x400.jpg",
-      "link_url": "https://twitter.com/yuta_EVANGELION"
+      "link_url": "https://twitter.com/yuta_EVANGELION",
+      "type": "tester"
     },
     {
       "profile_name": "進撃のistel@相互ブロック6名w",
       "img_url": "https://pbs.twimg.com/profile_images/716237818813501442/3SV6hKHB_400x400.jpg",
-      "link_url": "https://twitter.com/shingekistel1"
+      "link_url": "https://twitter.com/shingekistel1",
+      "type": "tester"
     },
     {
       "profile_name": "五十嵐 唯人",
       "img_url": "https://pbs.twimg.com/profile_images/568711774476595200/xNfnX-Qh_400x400.jpeg",
-      "link_url": "https://twitter.com/yuito_giants"
+      "link_url": "https://twitter.com/yuito_giants",
+      "type": "tester"
     }
   ]
 }
