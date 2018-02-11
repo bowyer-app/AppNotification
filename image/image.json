@@ -2,68 +2,72 @@
   "show_message" : "true",
   "items": [
     {
-      "message": "皆中！今日はいいことあるかもね！",
-      "image_url": "https://raw.githubusercontent.com/bowyer-app/AppNotification/master/image/t01.png"
+      "message": "",
+      "image_url": "https://raw.githubusercontent.com/bowyer-app/AppNotification/master/image/vd_01.jpg"
     },
     {
-      "message": "皆中！今日はいいことあるかもね！",
-      "image_url": "https://raw.githubusercontent.com/bowyer-app/AppNotification/master/image/t02.png"
+      "message": "",
+      "image_url": "https://raw.githubusercontent.com/bowyer-app/AppNotification/master/image/vd_02.jpg"
     },
     {
-      "message": "残念。。もっと練習しましょう",
-      "image_url": "https://raw.githubusercontent.com/bowyer-app/AppNotification/master/image/t03.png"
+      "message": "",
+      "image_url": "https://raw.githubusercontent.com/bowyer-app/AppNotification/master/image/vd_03.jpg"
     },
     {
-      "message": "残念。。。手の内を意識いて練習いましょう",
-      "image_url": "https://raw.githubusercontent.com/bowyer-app/AppNotification/master/image/t04.png"
+      "message": "",
+      "image_url": "https://raw.githubusercontent.com/bowyer-app/AppNotification/master/image/vd_04.jpg"
     },
     {
-      "message": "1射目集中して練習しましょう",
-      "image_url": "https://raw.githubusercontent.com/bowyer-app/AppNotification/master/image/t11.png"
+      "message": "",
+      "image_url": "https://raw.githubusercontent.com/bowyer-app/AppNotification/master/image/vd_05.jpg"
     },
     {
-      "message": "会はしっかりもってますか？早気は安定しませんよ",
-      "image_url": "https://raw.githubusercontent.com/bowyer-app/AppNotification/master/image/t12.png"
+      "message": "",
+      "image_url": "https://raw.githubusercontent.com/bowyer-app/AppNotification/master/image/vd_06.jpg"
     },
     {
-      "message": "今日は継ぎ矢に気をつけて",
-      "image_url": "https://raw.githubusercontent.com/bowyer-app/AppNotification/master/image/t13.png"
+      "message": "",
+      "image_url": "https://raw.githubusercontent.com/bowyer-app/AppNotification/master/image/vd_07.jpg"
     },
     {
-      "message": "1射目中った後、気を抜かないように",
-      "image_url": "https://raw.githubusercontent.com/bowyer-app/AppNotification/master/image/t14.png"
+      "message": "",
+      "image_url": "https://raw.githubusercontent.com/bowyer-app/AppNotification/master/image/vd_08.jpg"
     },
     {
-      "message": "会は意識してますか？",
-      "image_url": "https://raw.githubusercontent.com/bowyer-app/AppNotification/master/image/t22.png"
+      "message": "",
+      "image_url": "https://raw.githubusercontent.com/bowyer-app/AppNotification/master/image/vd_09.jpg"
     },
     {
-      "message": "肩線を意識して引いてみましょう",
-      "image_url": "https://raw.githubusercontent.com/bowyer-app/AppNotification/master/image/t23.png"
+      "message": "",
+      "image_url": "https://raw.githubusercontent.com/bowyer-app/AppNotification/master/image/vd_10.jpg"
     },
     {
-      "message": "最後詰めれるかどうかが勝負を左右します",
-      "image_url": "https://raw.githubusercontent.com/bowyer-app/AppNotification/master/image/t24.png"
+      "message": "",
+      "image_url": "https://raw.githubusercontent.com/bowyer-app/AppNotification/master/image/vd_11.jpg"
     },
     {
-      "message": "離れが乱れていませんか？",
-      "image_url": "https://raw.githubusercontent.com/bowyer-app/AppNotification/master/image/t25.png"
+      "message": "",
+      "image_url": "https://raw.githubusercontent.com/bowyer-app/AppNotification/master/image/vd_12.jpg"
     },
     {
-      "message": "1射目をしっかり中てれるように練習しましょう",
-      "image_url": "https://raw.githubusercontent.com/bowyer-app/AppNotification/master/image/t31.png"
+      "message": "",
+      "image_url": "https://raw.githubusercontent.com/bowyer-app/AppNotification/master/image/vd_13.jpg"
     },
     {
-      "message": "1本1本、気を抜かず！",
-      "image_url": "https://raw.githubusercontent.com/bowyer-app/AppNotification/master/image/t32.png"
+      "message": "",
+      "image_url": "https://raw.githubusercontent.com/bowyer-app/AppNotification/master/image/vd_14.jpg"
     },
     {
-      "message": "この調子で頑張りましょう！",
-      "image_url": "https://raw.githubusercontent.com/bowyer-app/AppNotification/master/image/t33.png"
+      "message": "",
+      "image_url": "https://raw.githubusercontent.com/bowyer-app/AppNotification/master/image/vd_15.jpg"
     },
     {
-      "message": "最後の1本を詰める練習をしてみましょう",
-      "image_url": "https://raw.githubusercontent.com/bowyer-app/AppNotification/master/image/t34.png"
+      "message": "",
+      "image_url": "https://raw.githubusercontent.com/bowyer-app/AppNotification/master/image/vd_16.jpg"
+    },
+    {
+      "message": "",
+      "image_url": "https://raw.githubusercontent.com/bowyer-app/AppNotification/master/image/vd_17.jpg"
     }
   ]
 }
