@@ -5,67 +5,99 @@
   "items": [
     {
       "message": "皆中！今日はいいことあるかもね！",
-      "image_url": "https://raw.githubusercontent.com/bowyer-app/AppNotification/master/image/t01.png"
+      "image_url": "https://raw.githubusercontent.com/bowyer-app/AppNotification/master/image/t01.png",
+      "user_name": "@sirama",
+      "user_url": "http://www.pixiv.net/member.php?id=16084214"
     },
     {
       "message": "皆中！今日はいいことあるかもね！",
-      "image_url": "https://raw.githubusercontent.com/bowyer-app/AppNotification/master/image/t02.png"
+      "image_url": "https://raw.githubusercontent.com/bowyer-app/AppNotification/master/image/t02.png",
+      "user_name": "@sirama",
+      "user_url": "http://www.pixiv.net/member.php?id=16084214"
     },
     {
       "message": "残念。。もっと練習しましょう",
-      "image_url": "https://raw.githubusercontent.com/bowyer-app/AppNotification/master/image/t03.png"
+      "image_url": "https://raw.githubusercontent.com/bowyer-app/AppNotification/master/image/t03.png",
+      "user_name": "@sirama",
+      "user_url": "http://www.pixiv.net/member.php?id=16084214"
     },
     {
       "message": "残念。。。手の内を意識いて練習いましょう",
-      "image_url": "https://raw.githubusercontent.com/bowyer-app/AppNotification/master/image/t04.png"
+      "image_url": "https://raw.githubusercontent.com/bowyer-app/AppNotification/master/image/t04.png",
+      "user_name": "@sirama",
+      "user_url": "http://www.pixiv.net/member.php?id=16084214"
     },
     {
       "message": "1射目集中して練習しましょう",
-      "image_url": "https://raw.githubusercontent.com/bowyer-app/AppNotification/master/image/t11.png"
+      "image_url": "https://raw.githubusercontent.com/bowyer-app/AppNotification/master/image/t11.png",
+      "user_name": "@sirama",
+      "user_url": "http://www.pixiv.net/member.php?id=16084214"
     },
     {
       "message": "会はしっかりもってますか？早気は安定しませんよ",
-      "image_url": "https://raw.githubusercontent.com/bowyer-app/AppNotification/master/image/t12.png"
+      "image_url": "https://raw.githubusercontent.com/bowyer-app/AppNotification/master/image/t12.png",
+      "user_name": "@sirama",
+      "user_url": "http://www.pixiv.net/member.php?id=16084214"
     },
     {
       "message": "今日は継ぎ矢に気をつけて",
-      "image_url": "https://raw.githubusercontent.com/bowyer-app/AppNotification/master/image/t13.png"
+      "image_url": "https://raw.githubusercontent.com/bowyer-app/AppNotification/master/image/t13.png",
+      "user_name": "@sirama",
+      "user_url": "http://www.pixiv.net/member.php?id=16084214"
     },
     {
       "message": "1射目中った後、気を抜かないように",
-      "image_url": "https://raw.githubusercontent.com/bowyer-app/AppNotification/master/image/t14.png"
+      "image_url": "https://raw.githubusercontent.com/bowyer-app/AppNotification/master/image/t14.png",
+      "user_name": "@sirama",
+      "user_url": "http://www.pixiv.net/member.php?id=16084214"
     },
     {
       "message": "会は意識してますか？",
-      "image_url": "https://raw.githubusercontent.com/bowyer-app/AppNotification/master/image/t22.png"
+      "image_url": "https://raw.githubusercontent.com/bowyer-app/AppNotification/master/image/t22.png",
+      "user_name": "@sirama",
+      "user_url": "http://www.pixiv.net/member.php?id=16084214"
     },
     {
       "message": "肩線を意識して引いてみましょう",
-      "image_url": "https://raw.githubusercontent.com/bowyer-app/AppNotification/master/image/t23.png"
+      "image_url": "https://raw.githubusercontent.com/bowyer-app/AppNotification/master/image/t23.png",
+      "user_name": "@sirama",
+      "user_url": "http://www.pixiv.net/member.php?id=16084214"
     },
     {
       "message": "最後詰めれるかどうかが勝負を左右します",
-      "image_url": "https://raw.githubusercontent.com/bowyer-app/AppNotification/master/image/t24.png"
+      "image_url": "https://raw.githubusercontent.com/bowyer-app/AppNotification/master/image/t24.png",
+      "user_name": "@sirama",
+      "user_url": "http://www.pixiv.net/member.php?id=16084214"
     },
     {
       "message": "離れが乱れていませんか？",
-      "image_url": "https://raw.githubusercontent.com/bowyer-app/AppNotification/master/image/t25.png"
+      "image_url": "https://raw.githubusercontent.com/bowyer-app/AppNotification/master/image/t25.png",
+      "user_name": "@sirama",
+      "user_url": "http://www.pixiv.net/member.php?id=16084214"
     },
     {
       "message": "1射目をしっかり中てれるように練習しましょう",
-      "image_url": "https://raw.githubusercontent.com/bowyer-app/AppNotification/master/image/t31.png"
+      "image_url": "https://raw.githubusercontent.com/bowyer-app/AppNotification/master/image/t31.png",
+      "user_name": "@sirama",
+      "user_url": "http://www.pixiv.net/member.php?id=16084214"
     },
     {
       "message": "1本1本、気を抜かず！",
-      "image_url": "https://raw.githubusercontent.com/bowyer-app/AppNotification/master/image/t32.png"
+      "image_url": "https://raw.githubusercontent.com/bowyer-app/AppNotification/master/image/t32.png",
+      "user_name": "@sirama",
+      "user_url": "http://www.pixiv.net/member.php?id=16084214"
     },
     {
       "message": "この調子で頑張りましょう！",
-      "image_url": "https://raw.githubusercontent.com/bowyer-app/AppNotification/master/image/t33.png"
+      "image_url": "https://raw.githubusercontent.com/bowyer-app/AppNotification/master/image/t33.png",
+      "user_name": "@sirama",
+      "user_url": "http://www.pixiv.net/member.php?id=16084214"
     },
     {
       "message": "最後の1本を詰める練習をしてみましょう",
-      "image_url": "https://raw.githubusercontent.com/bowyer-app/AppNotification/master/image/t34.png"
+      "image_url": "https://raw.githubusercontent.com/bowyer-app/AppNotification/master/image/t34.png",
+      "user_name": "@sirama",
+      "user_url": "http://www.pixiv.net/member.php?id=16084214"
     }
   ]
 }
