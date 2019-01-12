@@ -1,0 +1,52 @@
+{
+  "items": [
+    {
+      "profile_name": "bowyer-app",
+      "img_url": "https://avatars0.githubusercontent.com/u/12456426?v=3&s=460",
+      "link_url": "https://github.com/bowyer-app",
+      "type": "developer"
+    },
+    {
+      "profile_name": "工場長に松下",
+      "img_url": "https://pbs.twimg.com/profile_images/1081138821058650112/M-XRO13G_400x400.jpg",
+      "link_url": "https://twitter.com/chokojo_descart",
+      "type": "tester"
+    },
+    {
+      "profile_name": "とねてる@弓道",
+      "img_url": "https://pbs.twimg.com/profile_images/1054056360323670016/OLKU93jl_400x400.jpg",
+      "link_url": "https://twitter.com/miyoshinokyudo",
+      "type": "tester"
+    },
+    {
+      "profile_name": "MATSU",
+      "img_url": "https://pbs.twimg.com/profile_images/1022406694620426240/y6ZVvSvv_400x400.png",
+      "link_url": "https://twitter.com/MATSU120702",
+      "type": "tester"
+    },
+    {
+      "profile_name": "弓子",
+      "img_url": "https://pbs.twimg.com/profile_images/949997481604993025/d8N_Kn6p_400x400.jpg",
+      "link_url": "https://twitter.com/Yumiko9yagasuri",
+      "type": "tester"
+    },
+    {
+      "profile_name": "かわま",
+      "img_url": "https://pbs.twimg.com/profile_images/1023573595539234819/bcE3NCau_400x400.jpg",
+      "link_url": "https://twitter.com/kyuudou230412",
+      "type": "tester"
+    },
+    {
+      "profile_name": "yasu",
+      "img_url": "https://pbs.twimg.com/profile_images/1073671458524549120/fmSyWvnt_400x400.jpg",
+      "link_url": "https://twitter.com/yasu06278416",
+      "type": "tester"
+    },
+    {
+      "profile_name": "たけし",
+      "img_url": "https://pbs.twimg.com/profile_images/1014074396997062656/flc5tQpO_400x400.jpg",
+      "link_url": "https://twitter.com/koike11262",
+      "type": "tester"
+    }
+  ]
+}
