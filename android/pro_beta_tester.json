@@ -71,6 +71,12 @@
       "img_url": "https://pbs.twimg.com/profile_images/1035754439305396224/iJgDsedk_400x400.jpg",
       "link_url": "https://twitter.com/crxOzdRDKQMb8du",
       "type": "tester"
-    } 
+    },
+    {
+      "profile_name": "ツェイト",
+      "img_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png",
+      "link_url": "https://twitter.com/shubytz634",
+      "type": "tester"
+    }  
   ]
 }
