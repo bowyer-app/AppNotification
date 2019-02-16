@@ -49,15 +49,21 @@
       "type": "tester"
     },
     {
-      "profile_name": " ティーガー",
+      "profile_name": "ティーガー",
       "img_url": "https://pbs.twimg.com/profile_images/1092773674858364931/VK7k3MEw_400x400.jpg",
       "link_url": "https://twitter.com/Tiger_HSF",
       "type": "tester"
     },
     {
-      "profile_name": " のぶとむし",
+      "profile_name": "のぶとむし",
       "img_url": "https://pbs.twimg.com/profile_images/1051830420352905217/FqXdZq_3_400x400.jpg",
       "link_url": "https://twitter.com/nobutomusi_910",
+      "type": "tester"
+    },
+    {
+      "profile_name": "けーた",
+      "img_url": "https://pbs.twimg.com/profile_images/1039049092662407168/WPp8mKPK_400x400.jpg",
+      "link_url": "https://twitter.com/Tranquilo_215",
       "type": "tester"
     } 
   ]
