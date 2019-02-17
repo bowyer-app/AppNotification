@@ -77,6 +77,12 @@
       "img_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png",
       "link_url": "https://twitter.com/shubytz634",
       "type": "tester"
+    },
+    {
+      "profile_name": "あおい殿",
+      "img_url": "https://pbs.twimg.com/profile_images/992722302713282560/ad0anvbc_400x400.jpg",
+      "link_url": "https://twitter.com/Ver2025562880",
+      "type": "tester"
     }  
   ]
 }
