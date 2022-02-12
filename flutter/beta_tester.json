@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "profile_name": "bowyer-app",
+      "img_url": "https://avatars0.githubusercontent.com/u/12456426?v=3&s=460",
+      "link_url": "https://github.com/bowyer-app",
+      "type": "developer"
+    },
+    {
+      "profile_name": "圭",
+      "img_url": "https://pbs.twimg.com/profile_images/1439027929917231110/7CpClu2a_400x400.jpg",
+      "link_url": "https://twitter.com/a44737805",
+      "type": "tester"
+    },
+    {
+      "profile_name": "たにこう",
+      "img_url": "https://pbs.twimg.com/profile_images/1487429549591728128/qZROIQFz_400x400.jpg",
+      "link_url": "https://twitter.com/T__nii_kyudo_",
+      "type": "tester"
+    },
+    {
+      "profile_name": "おがち",
+      "img_url": "https://pbs.twimg.com/profile_images/1449857747558690816/QPxursGh_400x400.jpg",
+      "link_url": "https://twitter.com/YuMi_ZiKi910Sui",
+      "type": "tester"
+    },
+    {
+      "profile_name": "Mak",
+      "img_url": "https://pbs.twimg.com/profile_images/16257522/5300481_23b6246277_m_400x400.jpg",
+      "link_url": "https://twitter.com/hayasima",
+      "type": "tester"      
+    },
+    {
+      "profile_name": "紀伊",
+      "img_url": "https://pbs.twimg.com/profile_images/1485226677949329418/2-wXyJpL_400x400.jpg",
+      "link_url": "https://twitter.com/Harvi_noU",
+      "type": "tester"
+    },
+    {
+      "profile_name": "ゆ",
+      "img_url": "https://pbs.twimg.com/profile_images/1430776118341111811/vLaQn7l2_400x400.jpg",
+      "link_url": "https://twitter.com/__yk278xx",
+      "type": "tester"
+    },
+    {
+      "profile_name": "akko@弓道好きな人と繋がりたい",
+      "img_url": "https://pbs.twimg.com/profile_images/1480591666449125376/eSEXN0uJ_400x400.jpg",
+      "link_url": "https://twitter.com/akko_kyudo",
+      "type": "tester"
+    },
+    {
+      "profile_name": "しろしろベアー〆",
+      "img_url": "https://pbs.twimg.com/profile_images/1473296129446260739/Y50oycNy_400x400.jpg",
+      "link_url": "https://twitter.com/sirosiro_bear",
+      "type": "tester"
+    },
+    {
+      "profile_name": "ひゅうが 弓引き",
+      "img_url": "https://pbs.twimg.com/profile_images/1467833428405985281/WmPRHzN4_400x400.jpg",
+      "link_url": "https://twitter.com/kyudo_ng_",
+      "type": "tester"
+    }
+  ]
+}
